@@ -1,0 +1,10 @@
+.guessform {
+    color: white;
+    display: block;
+    margin: 50px;
+}
+
+.guessform__label {
+    display: block;
+    text-align: center;
+}

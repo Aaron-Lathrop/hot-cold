@@ -1,0 +1,14 @@
+.guesslist__container {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.guesslist__list {
+    list-style-type: none;
+}
+
+.guesslist__item {
+    font-weight: bold;
+}

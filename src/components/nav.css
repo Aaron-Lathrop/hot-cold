@@ -1,0 +1,16 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: flex-end;
+    background-color: darkslategrey;
+    width: 100%;
+}
+
+.navbar button {
+    margin: 20px 15px;
+}
+
+.navbar button:hover {
+    cursor: pointer;
+}
